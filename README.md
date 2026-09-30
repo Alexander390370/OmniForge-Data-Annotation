@@ -155,7 +155,10 @@ In practice, AI pre-annotation typically delivers a 3-5x labeling throughput imp
 
 ## Related Work
 
-- **[Ternary Bonsai 2 27B on 8GB VRAM](https://github.com/Alexander390370/Bonsai-27B-8GB-VRAM-Setup)** — the same 8GB card, running a 27B quantized LLM at 64K context. The VRAM management patterns in that project inform the exclusive switching design here.
+- **[OmniForge-Data-Annotation](https://github.com/Alexander390370/OmniForge-Data-Annotation)** — full-modal data annotation
+- **[sd-forge-8gb-vram-setup](https://github.com/Alexander390370/sd-forge-8gb-vram-setup)** — Stable Diffusion on the same 8GB card
+- **[esp32-edge-ai-security](https://github.com/Alexander390370/esp32-edge-ai-security)** — edge AI on the hardware side
+- **[esp32-pwm-fan-controller](https://github.com/Alexander390370/esp32-pwm-fan-controller)** — hardware-side firmware
 
 ---
 
