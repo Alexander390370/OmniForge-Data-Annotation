@@ -5,6 +5,11 @@ A fully local, privacy-first data annotation platform with AI-assisted pre-annot
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python 3.10](https://img.shields.io/badge/Python-3.10-blue)
 ![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
+![Modality](https://img.shields.io/badge/Modality-Text_%7C_Image_%7C_Audio_%7C_Video-purple)
+![AI](https://img.shields.io/badge/AI-Ollama_%2B_YOLO_%2B_Whisper-orange)
+![Privacy](https://img.shields.io/badge/Privacy-100%25_Local-brightgreen)
+![Team](https://img.shields.io/badge/Team-20--30_people-lightgrey)
+![GPU](https://img.shields.io/badge/GPU-RTX_4060_8GB-76B900?logo=nvidia&logoColor=white)
 
 ## Overview
 
